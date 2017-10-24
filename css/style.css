@@ -17,7 +17,11 @@ body {
  font-family:Verdana, Arial, Helvetica, sans-serif;
  color: 	#DC143C;
   }
- 
+
+#topbar {
+ height:78px
+}
+
 #topmenu {
         display:block;
         list-style:none;
