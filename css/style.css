@@ -4,7 +4,7 @@ body {
 
 
 #wrap {
- width:700px;
+ width:1000px;
  margin:0px auto 15px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
@@ -13,9 +13,8 @@ body {
 /* Header */
 #header {
  height:242PX;
- margin:0px auto 15px auto;
- font-family:Verdana, Arial, Helvetica, sans-serif;
- color: 	#DC143C;
+        background:url(images/header.jpg) no-repeat left top;
+        clear: both;
   }
 
 #topbar {
