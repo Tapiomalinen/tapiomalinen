@@ -1,5 +1,5 @@
 body {
- background:	#9370DB url(images/artstationlogo.jpg) repeat-x;
+ background:	#9932CC url(images/artstationlogo.jpg) repeat-x;
 }
 
 
@@ -26,7 +26,7 @@ body {
         list-style:none;
         padding:0 0px 0px 278px;
         float: middle;
-        width:500
+        width:900
 }
 #topmenu li {
         display:inline;
@@ -56,7 +56,7 @@ body {
          background-color: #E6E6FA;
 }
 mainpage{
-         width:700px;
+         width:1000px;
          float:left;
          padding:5px 5px 5px 0px;
          height:auto;
