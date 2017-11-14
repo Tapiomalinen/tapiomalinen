@@ -100,9 +100,18 @@ mainpage h2 {
 
 }
 
+table {
+border-spacing: 5px;
+}
+
 table, th, td {
-border:1px solid #191970;
- border-collapse: collapse;
+ border:1px solid #191970;
+ /*border-collapse: collapse;*/
  float: middle;
+ padding: 15px;
+
+}
+th {
+text-align:left;
 
 }
