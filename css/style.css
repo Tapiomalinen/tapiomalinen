@@ -114,3 +114,9 @@ th {
 text-align:left;
 
 }
+
+table#t1 {
+width: 80%;
+background-color: #7FFFD4;
+border:1px solid #00000;
+}
