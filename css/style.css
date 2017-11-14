@@ -8,7 +8,7 @@ body {
  margin:0px auto 15px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
-        color:#000000	
+        color:#4B0082	
 }
 /* Header */
 #header {
@@ -73,7 +73,7 @@ mainpage{
         font:Georgia, "Times New Roman", Times, serif;
 }
 h1, h2, h3, h4, h5 {
-        color:#B32C0E;
+        color:#9932CC;
         font-weight:bold;
         font-family: Arial, Helvetica, sans-serif;
 }
