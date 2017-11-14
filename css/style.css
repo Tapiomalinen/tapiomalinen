@@ -99,3 +99,9 @@ mainpage h2 {
 
 
 }
+
+table, th, td {
+border:1px solid #ADD8E6;
+ border-collapse: collapse;
+
+}
