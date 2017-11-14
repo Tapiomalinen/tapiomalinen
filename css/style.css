@@ -79,13 +79,13 @@ h1, h2, h3, h4, h5 {
 }
 #mainpage h1 {
         font-size:24px;
-        color: #2F7F3
+        color: #FFFFFFF
 }
 mainpage h2 {
         font-size:18px;
         padding-top: 20px;
         padding-bottom: 5px;
-        border-bottom: 1px solid #B52E10;
+        border-bottom: 1px solid #9400D3;
 }
 #mainpage h3{
         font-size:20px;}
