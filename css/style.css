@@ -8,7 +8,7 @@ body {
  margin:0px auto 15px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
-        color:#DC143C	
+        color:#000000	
 }
 /* Header */
 #header {
@@ -45,7 +45,7 @@ body {
 }
 #topmenu a:hover{
         color:#ffffff;
-        background-color: #B52E10;
+        background-color: #8A2BE2;
 }
 #topmenu .active a, #topmenu .active a:visited, #topmenu .active a:activate {
         color:#FFFFFF;
@@ -53,7 +53,7 @@ body {
 }
 /*content*/
 #content {
-         background-color: #9370DB;
+         background-color: #E6E6FA;
 }
 mainpage{
          width:700px;
