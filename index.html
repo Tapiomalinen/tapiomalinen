@@ -8,20 +8,20 @@
 <script>
       function validateForm()
       {
-        if (document.forms["myForm"]["name"].value==null || document.forms["myForm]["name"].value=="")
+        if (document.forms["myForm"]["name"].value==null || document.forms["myForm"]["name"].value=="")
       {
-      alert("Name must be filled out");
+      alert("Please add a name.");
       return false;
       }
-                                                                          
-        if (document.forms["myForm"]["name"].value==null || document.forms["myForm]["phone"].value=="")
+      
+        if (document.forms["myForm"]["email"].value==null || document.forms["myForm"]["email"].value=="")
       {
-      alert("Phone must be filled out");
+      alert("Please add an email.");
       return false;
-      } 
-        if (document.forms["myForm"]["email"].value==null || document.forms["myForm]["email"].value=="")
+      }
+        if (document.forms["myForm"]["comment"].value==null || document.forms["myForm"]["comment"].value=="")
       {
-      alert("Email must be filled out");
+      alert("Please add a comment.");
       return false;
       }
     return true;
