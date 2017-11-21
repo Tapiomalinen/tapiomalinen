@@ -12,6 +12,7 @@ body {
 }
 /* Header */
 #header {
+        Height:774px;
         background:url(https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/header2.png) no-repeat left top;
         clear: both;
   }
