@@ -7,6 +7,7 @@ body {
 }
 
 #wrap {
+ width:700px;
  margin:0px auto 800px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
