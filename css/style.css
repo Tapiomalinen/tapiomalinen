@@ -12,7 +12,7 @@ body {
  margin:0px auto 0px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
-        color:#E6E6FA	
+        color:#E6E6FA
 }
 /* Header */
 #header {
@@ -78,13 +78,19 @@ mainpage{
         margin:5px;
         font:Georgia, "Times New Roman", Times, serif;
 }
-h1, h2, h3, h4, h5 {
-        color:#778899;
+h1 {
+        border-bottom: 3px solid color: #778899;
+        color:#E6E6FA;
+        font-weight:bold;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, h3, h4, h5 {
+        color:#E6E6FA;
         font-weight:bold;
         font-family: Arial, Helvetica, sans-serif;
 }
 #mainpage h1 {
-        border-bottom: 3px solid color: #778899;
         font-size:24px;
         color: #FFFFFFF
 }
