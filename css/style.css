@@ -32,7 +32,7 @@ body {
         padding:0 0px 0px 0px;
         float: middle;
         width:1920;
-        background-color:#150024;
+        background-color:#9400D3;
         position: fixed;
 }
 #topmenu li {
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5 {
         font-family: Arial, Helvetica, sans-serif;
 }
 #mainpage h1 {
-        border-top: 3px solid color #778899;
+        border-top: 3px solid #778899;
         font-size:24px;
         color: #778899
 }
