@@ -1,5 +1,5 @@
 body {
- background:	#0F0325 url(images/artstationlogo.jpg) repeat-x;
+ background:	#0F0325 url(https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/header2small.png?raw=true) repeat-x;
 }
 
 #wrap {
@@ -12,7 +12,7 @@ body {
 /* Header */
 #header {
         Height:100%;
-        background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/header2small.png?raw=true") no-repeat top;
+        /*background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/header2small.png?raw=true") no-repeat top;*/
   }
 
 #topbar {
