@@ -13,7 +13,7 @@ body {
 #header {
         height:150px;
         width:150px;
-        background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png") no-repeat top;
+        background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png&raw=true") no-repeat top;
   }
 
 #topbar {
@@ -23,7 +23,7 @@ body {
 #topmenu {
         display:block;
         list-style:none;
-        padding:0 0px 0px 0px;
+        padding:0 0px 0px 200px;
         width:1920;
         background-color:#9400D3;
         position: fixed;
