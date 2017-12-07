@@ -11,8 +11,9 @@ body {
 }
 /* Header */
 #header {
-        Height:100%;
-        /*background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/header2small.png?raw=true") no-repeat top;*/
+        height:100%;
+        width:100%;
+        background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png") no-repeat top;
   }
 
 #topbar {
