@@ -40,6 +40,7 @@ body {
         text-decoration:none;
         padding:9px 15px 0px 15px;
         text-align: center;
+        float: left;
 }
 #topmenu a, #topmenu a:visited, #topmenu a:active {
         color:#E6E6FA;
