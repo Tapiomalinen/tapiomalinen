@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5 {
         border-top: 3px solid #E6E6FA;
         font-size:24px;
         color: #E6E6FA
+        text-align:center;
 }
 #mainpage h2 {
         font-size:18px;
