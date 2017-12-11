@@ -13,6 +13,7 @@ body {
 #header {
         height:150px;
         width:150px;
+        margin: 0px 0px 50% 0px
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
   }
@@ -25,10 +26,8 @@ body {
         display:block;
         list-style:none;
         padding:0 0px 0px 0px;
-        float:left;
         width:100%;
         background-color:#9400D3;
-        position: fixed;
 }
 #topmenu li {
         display:inline;
@@ -39,6 +38,7 @@ body {
         margin:0px 0px 0px 0px;
         text-decoration:none;
         padding:9px 15px 0px 15px;
+        text-align: center;
 }
 #topmenu a, #topmenu a:visited, #topmenu a:active {
         color:#E6E6FA;
