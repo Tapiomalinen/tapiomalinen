@@ -13,7 +13,7 @@ body {
 #header {
         height:150px;
         width:150px;
-        margin: 0px 0px 100% 0px
+        margin: 0px 0px 0px 0px
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
   }
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5 {
 #mainpage h1 {
         border-top: 3px solid #E6E6FA;
         font-size:24px;
-        color: #E6E6FA
+        color: #E6E6FA;
         text-align:center;
 }
 #mainpage h2 {
