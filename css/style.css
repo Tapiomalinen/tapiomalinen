@@ -13,7 +13,6 @@ body {
 #header {
         height:150px;
         width:150px;
-        margin: 0px 0px 0px 0px
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
   }
@@ -108,7 +107,7 @@ border-spacing: 5px;
 }
 
 table, th, td {
- border:1px solid #191970;
+ border:1px solid #ffffff;
  /*border-collapse: collapse;*/
  padding: 15px;
 
