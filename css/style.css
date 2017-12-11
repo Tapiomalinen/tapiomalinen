@@ -4,7 +4,7 @@ body {
 
 #wrap {
         width:1000px;
-        margin:200px auto 15px auto;
+        margin:720px auto 15px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
         color:#E6E6FA;
@@ -35,12 +35,10 @@ body {
 }
 #topmenu a {
         display:block;
-        float:left;
         height:28px;
         margin:0px 0px 0px 0px;
         text-decoration:none;
         padding:9px 15px 0px 15px;
-        text-align:center;
 }
 #topmenu a, #topmenu a:visited, #topmenu a:active {
         color:#E6E6FA;
@@ -122,5 +120,5 @@ text-align:left;
 table#t1 {
 width: 80%;
 background-color: #7FFFD4;
-border:1px solid #00000;
+border:1px solid #ffffff;
 }
