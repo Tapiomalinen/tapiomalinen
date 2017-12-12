@@ -23,7 +23,7 @@ body {
 }
 
 #topmenu {
-        display:inline-block;
+        display:none;
         list-style:none;
         padding:0 0px 0px 0px;
         width:1000px;
@@ -76,20 +76,19 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-        color:#E6E6FA;
+        color:#0F0325;
         font-weight:bold;
         font-family: Arial, Helvetica, sans-serif;
 }
 #mainpage h1 {
         font-size:24px;
-        color: #E6E6FA;
         text-align:center;
 }
 #mainpage h2 {
         font-size:18px;
         padding-top: 20px;
         padding-bottom: 5px;
-        border-bottom: 1px solid #9400D3;
+        border-bottom: 1px solid #e600e6;
 }
 #mainpage h3{
         font-size:20px;}
@@ -99,7 +98,7 @@ h1, h2, h3, h4, h5 {
         font-size:16px;}
 
 #footer {
-	margin:0 auto;
+	/*margin:0 auto;
 	width:685px;
 	height:20px;
 	padding:10px;
@@ -108,7 +107,7 @@ h1, h2, h3, h4, h5 {
 	background:#333333;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
-	clear: both;
+	clear: both;*/
 }
 
 table {
