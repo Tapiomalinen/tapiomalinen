@@ -23,10 +23,10 @@ body {
 }
 
 #topmenu {
-        display:block;
+        display:inline-block;
         list-style:none;
         padding:0 0px 0px 0px;
-        width:100%;
+        width:1000px;
         background-color:#9400D3;
         text-align:center;
         position:fixed;
