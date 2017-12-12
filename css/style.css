@@ -7,7 +7,7 @@ body {
         margin:5px auto 15px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
-        color:#E6E6FA;
+        /*color:#E6E6FA;*/
 }
 /* Header */
 #header {
@@ -15,7 +15,7 @@ body {
         width:150px;
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
-        margin:600px auto 15px auto;
+        margin:580px auto 15px auto;
   }
 
 #topbar {
