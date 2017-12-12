@@ -29,6 +29,7 @@ body {
         width:100%;
         background-color:#9400D3;
         text-align:center;
+        position:fixed;
 }
 #topmenu li {
         display:inline;
