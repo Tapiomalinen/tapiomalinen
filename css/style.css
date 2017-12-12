@@ -4,7 +4,7 @@ body {
 
 #wrap {
         width:1000px;
-        margin:5px auto 15px auto;
+        margin:15px auto 5px auto;
         font-family:Verdana, Arial, Helvetica, sans-serif;
         font-size:12px;
         color:#E6E6FA;
@@ -15,7 +15,7 @@ body {
         width:150px;
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
-        margin:550px auto 15px auto;
+        margin:480px auto 15px auto;
   }
 
 #topbar {
@@ -54,7 +54,7 @@ body {
 }
 /*content*/
 #content {
-         background-color: #7A6989;
+         background-color: #ffffff;
 }
 #mainpage{
          width:1000px;
