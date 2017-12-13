@@ -23,7 +23,7 @@ body {
 }
 
 #topmenu {
-        display:none;
+        display:block;
         list-style:none;
         padding:0 0px 0px 0px;
         width:1000px;
