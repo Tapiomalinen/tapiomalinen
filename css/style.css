@@ -68,13 +68,6 @@ body {
         margin:10px 0px 22px 0px;
         text-align: justify;
 }
-
-img {
-	border: 1px solid #ddd;
-	border-radius: 4px;
-	padding: 5px;
-	width:150px;
-}
 #mainpage blockquote {
         background:#E6E6FA;
         display:block;
