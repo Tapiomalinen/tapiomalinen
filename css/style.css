@@ -15,7 +15,7 @@ body {
         width:150px;
         background:url("https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/profile.png?raw=true") no-repeat top;
         clear; both;
-        margin:480px auto 15px auto;
+        margin:495px auto 15px auto;
   }
 
 #topbar {
@@ -73,6 +73,13 @@ body {
         display:block;
         margin:5px;
         font:Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+	border: 1px solid #ddd
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
 }
 
 h1, h2, h3, h4, h5 {
