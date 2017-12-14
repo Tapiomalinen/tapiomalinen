@@ -74,8 +74,8 @@ body {
         margin:5px;
         font:Georgia, "Times New Roman", Times, serif;
 }
-
-img {
+/*image thumbnails*/
+thumb {
 	border: 1px solid #ddd
 	border-radius: 4px;
 	padding: 5px;
