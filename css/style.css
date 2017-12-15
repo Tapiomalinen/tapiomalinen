@@ -1,6 +1,11 @@
 body {
  background:	#ffffff url(https://github.com/Tapiomalinen/tapiomalinen/blob/master/images/headerwide.png?raw=true) repeat-x;
 }
+
+p.center {
+text-align: center;
+}
+
 img.displayed {
 display:block;
 	margin-left: auto;
